@@ -1,13 +1,16 @@
+
 What I use in this project?
 
 Selenium, Bs4, fastapi, mongodb
-----------------------------------
+
+
 Before run 
     -set your mongodb urls, 
     -make sure that you have Firefox browser
     -make sure that you have Rabbitmq server
     -make sure that you have installed python on your device
-----------------------------------
+
+
 How to run?
 1. start run_selenium_and_worker.sh script by using this command
     sh run_selenium_and_worker.sh
